@@ -1,0 +1,286 @@
+{
+  "basics": {
+    "name": "Marc Picaud",
+    "label": "Full-Stack Web Developer",
+    "picture": "https://secure.gravatar.com/avatar/d0b705d5777f72abc35d53b21748d73c.png?s=200",
+    "email": "picaud.marc@gmail.com",
+    "phone": "+33645171678",
+    "website": "https://stackoverflow.com/story/marcpicaud",
+    "summary": "90s kid working towards becoming an A-player software engineer",
+    "location": {
+      "city": "Barcelona",
+      "countryCode": "ES"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "marcpicaud",
+        "url": "https://twitter.com/marcpicaud"
+      },
+      {
+        "network": "GitHub",
+        "username": "marcpicaud",
+        "url": "http://github.com/marcpicaud"
+      },
+      {
+        "network": "Medium",
+        "username": "marcpicaud",
+        "url": "https://medium.com/@marcpicaud"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "marcpicaud",
+        "url": "https://www.linkedin.com/in/marcpicaud"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "FabLife",
+      "position": "Full-Stack Web Developer (freelance)",
+      "website": "https://www.bedaddy.fr/",
+      "startDate": "2019-04-01",
+      "summary": "FabLife provides an innovative nutrition program to men who struggle with fertility issues, based on cutting-edge scientific research and the power of modern web technologies",
+      "highlights": ["Tech Lead (software & technical operations)"]
+    },
+    {
+      "company": "FabLife",
+      "position": "Web Developer",
+      "website": "https://www.bedaddy.fr/",
+      "startDate": "2015-01-01",
+      "endDate": "2019-04-01",
+      "summary": "FabLife provides an innovative nutrition program to men who struggle with fertility issues, based on cutting-edge scientific research and the power of modern web technologies",
+      "highlights": [
+        "Contributed to build the MVP",
+        "Maintained an expert system in the nutrition field",
+        "Designed and engineered back-office applications",
+        "Designed and engineered a PDF server that can generate complex documents programmatically",
+        "Implemented automated functional tests",
+        "Contributed on recruitment, onboarding and mentoring of new engineers",
+        "Lead outsourced projects (technical specs, communication, dev tools etc.)",
+        "Engineered a POC mobile app",
+        "Built a few chatbots",
+        "Maintained a WordPress website",
+        "Integrated third party APIs (Stripe, Twilio, Mandrill, Slack, Gitlab, Redmine, Jenkins)"
+      ]
+    },
+    {
+      "company": "PrestaShop",
+      "position": "Web Developer",
+      "website": "https://www.prestashop.com/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-11-01",
+      "summary": "PrestaShop is an efficient and innovative e-commerce solution with all the features you need to create an online store and grow your business.",
+      "highlights": [
+        "Delivered new PrestaShop extensions (payment solutions, marketing solutions, data viz and automation tools)",
+        "Helped to improve internal tools such as CRM interfaces or team workflows",
+        "Provided great customer care and support for clients all over the world",
+        "Created new revenue streams by designing innovative products",
+        "Maintained legacy code",
+        "Migrated best-seller products towards a new Symfony2 architecture",
+        "Onboarded new developers"
+      ]
+    },
+    {
+      "company": "Intello Technologies",
+      "position": "Web Developer Intern",
+      "website": "https://www.intello.com/",
+      "startDate": "2014-03-01",
+      "endDate": "2014-06-01",
+      "summary": "Providing technology solutions for the lodging industry and businesses",
+      "highlights": [
+        "Learned SaaS methodologies",
+        "Discovered the North American culture",
+        "Contributed on the development of a digital display solution"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "TheFamily",
+      "area": "Startup mindset",
+      "studyType": "Saturday workshops",
+      "startDate": "2016-04-01",
+      "endDate": "2016-06-01",
+      "courses": [
+        "Specificities of startup jobs",
+        "Role of technology in startups",
+        "Startup mindset"
+      ]
+    },
+    {
+      "institution": "ETNA",
+      "area": "Computer Science",
+      "studyType": "Engineering",
+      "startDate": "2014-09-01",
+      "endDate": "2017-11-01",
+      "courses": [
+        "Advanced Software Architecture",
+        "Project Management",
+        "Advanced Networking",
+        "Advanced Web Development",
+        "Advanced Databases",
+        "Software scalability",
+        "Low level programming",
+        "2D games programming",
+        "Team working",
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "institution": "Université Parie Descartes",
+      "area": "Computer Science",
+      "studyType": "DUT",
+      "startDate": "2012-09-01",
+      "endDate": "2014-07-01",
+      "courses": [
+        "Algorithms 101",
+        "Computer Systems 101",
+        "Maths",
+        "Web Development 101",
+        "Databases 101",
+        "Networking 101"
+      ]
+    },
+    {
+      "institution": "Ecole Nationale de Chimie, Physique, Biologie",
+      "area": "Mathématiques Supérieures",
+      "studyType": "Classes Préparatoires",
+      "startDate": "2011-09-01",
+      "endDate": "2012-07-01",
+      "courses": ["Maths", "Physics", "Chemistry", "Engineering Science"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "What it takes to have your health on point",
+      "publisher": "Medium",
+      "releaseDate": "2017-06-01",
+      "website": "https://medium.com/@marcpicaud/what-it-takes-to-have-your-health-on-point-1b0ec06d2c34",
+      "summary": "What I learned from my journey of building sane habits (and quitting toxic ones)"
+    },
+    {
+      "name": "Anatomy of a PrestaShop module",
+      "publisher": "Blog Post",
+      "releaseDate": "2016-04-01",
+      "website": "http://marcpicaud.github.io/posts/anatomy-of-a-prestashop-module",
+      "summary": "What is a PrestaShop Module ?"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["ESNext", "JavaScript", "TypeScript"]
+    },
+    {
+      "name": "Frontend Engineering",
+      "level": "Master",
+      "keywords": [
+        "UI/UX design",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Angular",
+        "Jest",
+        "Build tools",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Backend Engineering",
+      "level": "Master",
+      "keywords": [
+        "NodeJS",
+        "Nginx",
+        "Web Servers",
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        "AMQP",
+        "Puppeteer"
+      ]
+    },
+    {
+      "name": "Technical operations",
+      "level": "Master",
+      "keywords": [
+        "Linux",
+        "Bare Metal",
+        "Virtual Machines",
+        "Containers",
+        "Public Cloud Providers",
+        "High Availability",
+        "Continuous Delivery",
+        "Continuous Deployment"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "level": "Master",
+      "keywords": [
+        "Data Structures",
+        "Design Patterns",
+        "Algorithms",
+        "Software Architecture",
+        "Testing"
+      ]
+    },
+    {
+      "name": "Product Engineering",
+      "level": "Master",
+      "keywords": [
+        "Agile project management",
+        "Specification gathering",
+        "Non-technical communication",
+        "Customer Service",
+        "Third Party APIs implementation",
+        "Wireframing",
+        "Feedback"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "Innovative software",
+        "Innovative startups",
+        "Digital experiences"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["CrossFit", "Running", "Football"]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Digital nomadism",
+        "Foreign culture experience",
+        "Novelties"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Cecile Dubouis, Chief Experience Officer @ PrestaShop",
+      "reference": "Quel plaisir d'avoir Marc dans notre équipe ! Tout en suivant son alternance, il a rejoint l'équipe développeurs Addons chez PrestaShop. Marc est volontaire pour apprendre, pour découvrir de nouveaux projets, il est également source de proposition et est très impliqué, le tout dans un excellent esprit. Je recommande Marc !"
+    }
+  ]
+}
