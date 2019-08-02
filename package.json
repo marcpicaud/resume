@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "This repository contains my resume based on the [resume-schema](https://github.com/jsonresume/resume-schema) specification",
+  "scripts": {
+    "build": "resume export --theme stackoverflow index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcpicaud/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcpicaud/resume/issues"
+  },
+  "homepage": "https://github.com/marcpicaud/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.12.1",
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
+    "resume-cli": "^1.2.5"
+  }
+}
