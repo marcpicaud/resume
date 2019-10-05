@@ -36,7 +36,7 @@
   },
   "work": [
     {
-      "company": "FabLife",
+      "company": "BeDaddy",
       "position": "Full-Stack Web Developer (freelance)",
       "website": "https://www.bedaddy.fr/",
       "startDate": "2019-04-01",
@@ -46,6 +46,7 @@
     {
       "company": "FabLife",
       "position": "Web Developer",
+      "website": "http://fablife.com",
       "startDate": "2016-11-14",
       "endDate": "2019-04-01",
       "summary": "FabLife provides an innovative nutrition program to men who struggle with fertility issues, based on cutting-edge scientific research and the power of modern web technologies",
